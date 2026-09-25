@@ -6,6 +6,25 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.8</title>
+      <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 26 Sep 2026 02:24:45 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Plays video through libmpv (IINA's engine), so HEVC files tagged hev1 now play and get library thumbnails</li>
+          <li>Keeps playing through the library: Previous / Next, shuffle, and repeat</li>
+          <li>The iPhone remote no longer drops taps while status updates stream</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.8/Pulse-0.5.8.dmg"
+        sparkle:edSignature="abnA/MJ+XpBiC9FcoVg1PclIXvwuVG+KVpNusg1fXfXQ8lu8MEAgc86UUyd/9x6W6B3Zy2EDBzWZ+BNjG6Q8BQ=="
+        length="55071733"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.7</title>
       <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
       <sparkle:version>13</sparkle:version>
