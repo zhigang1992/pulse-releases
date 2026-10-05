@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.11</title>
+      <sparkle:shortVersionString>0.5.11</sparkle:shortVersionString>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 06 Oct 2026 00:42:36 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>External subtitles: sidecars next to the video, a track picker, and delay controls</li>
+          <li>Live motion follows the playhead instead of lagging behind it</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.11/Pulse-0.5.11.dmg"
+        sparkle:edSignature="hIhjIT90W/mph4ZiQ5vO7VVSsWftWfS2BHgt15qUD1N+FMpgECWYFKSgcpctyePES1mtwiOdAq4FPj5aeemrBw=="
+        length="56107735"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.10</title>
       <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
       <sparkle:version>18</sparkle:version>
