@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.10</title>
+      <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 05 Oct 2026 23:10:00 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Generate Motion Script follows the visible stroke much more closely: it keeps direction across the clip, rests at the bottom when nothing moves, and spikes up like hand-made scripts</li>
+          <li>Generated scripts no longer drift out of sync on long videos</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.10/Pulse-0.5.10.dmg"
+        sparkle:edSignature="cenUlyPBQFc5M43jPvk6jjM1UNzbGOlNgbgIzEm6fGiuxinh3Asig+Ev/CC9T5JO0y11Tf91Sn5ruMJmVsgvDQ=="
+        length="55833293"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.9</title>
       <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
       <sparkle:version>16</sparkle:version>
