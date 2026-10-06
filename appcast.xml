@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.12</title>
+      <sparkle:shortVersionString>0.5.12</sparkle:shortVersionString>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 06 Oct 2026 23:40:00 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Generated and live motion handle camera cuts: each shot picks its own direction, so fewer stretches run upside down</li>
+          <li>Strokes that show up across two moving parts of the picture are tracked as one</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.12/Pulse-0.5.12.dmg"
+        sparkle:edSignature="G0TxKMwRNCRDgu84l7I7o3QlGKBwusXn/WCYOAyy7kifVLp1tF3NKaW4n9Owhey3Ap9qyoKHWYBuM/e9hv29Dg=="
+        length="55964377"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.11</title>
       <sparkle:shortVersionString>0.5.11</sparkle:shortVersionString>
       <sparkle:version>19</sparkle:version>
