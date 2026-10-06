@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.13</title>
+      <sparkle:shortVersionString>0.5.13</sparkle:shortVersionString>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 07 Oct 2026 02:40:08 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Statistics window (Window &gt; Statistics): hours played, streaks, a year heat map, the hours of the week you use Pulse most, and your most played items. Kept on this Mac only</li>
+          <li>Pulse Remote can show the same statistics</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.13/Pulse-0.5.13.dmg"
+        sparkle:edSignature="Gha71CLy/mAISwq6dTODyhaF0TzSFnAmimLWseZxShD1CqegmSTSqTLsFwhadvICQop+bGUuL04/q+G6aE3+Cg=="
+        length="56350000"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.12</title>
       <sparkle:shortVersionString>0.5.12</sparkle:shortVersionString>
       <sparkle:version>20</sparkle:version>
