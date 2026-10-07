@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.14</title>
+      <sparkle:shortVersionString>0.5.14</sparkle:shortVersionString>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 08 Oct 2026 01:04:12 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Live motion no longer crashes when you stop or switch videos</li>
+          <li>Crashes are reported, so a future one does not stay only on your Mac</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.14/Pulse-0.5.14.dmg"
+        sparkle:edSignature="AoJWbV6DQOlAcfYnVVEls/2HcKduxzvFY/wxsm9hfTx/RwYQ10kXktN0kWaW/M7yt8MzEGaQYMBnHWxT9oyKAg=="
+        length="58319528"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.13</title>
       <sparkle:shortVersionString>0.5.13</sparkle:shortVersionString>
       <sparkle:version>21</sparkle:version>
