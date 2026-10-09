@@ -6,6 +6,25 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.16</title>
+      <sparkle:shortVersionString>0.5.16</sparkle:shortVersionString>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 09 Oct 2026 12:52:11 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>New: Live Feed drives your device from part of the screen in real time, for games, streams or a video in your browser (Control &gt; Live Feed from Screen…)</li>
+          <li>Live Feed keeps the stroke going through camera cuts, and can hold a minimum stroke depth and speed (Settings &gt; Live Feed)</li>
+          <li>New: Motion Source chooses Scripts Only, Script Else Video Motion, or Video Motion Only (transport bar, Control menu, or the remote)</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.16/Pulse-0.5.16.dmg"
+        sparkle:edSignature="YlEj4nAm51GahgRpbGYyVHwzUfMiypacPcURCayIOO8DsM4EFH3XOZgKs/azjWpSh7yJjEwJkQSeRN9YyGoJAg=="
+        length="58870418"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.15</title>
       <sparkle:shortVersionString>0.5.15</sparkle:shortVersionString>
       <sparkle:version>23</sparkle:version>
