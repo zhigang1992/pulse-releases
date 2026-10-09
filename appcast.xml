@@ -6,6 +6,23 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.17</title>
+      <sparkle:shortVersionString>0.5.17</sparkle:shortVersionString>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 09 Oct 2026 16:58:01 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Live Feed's minimum movement only adds motion now: strong strokes are never made smaller, shallow strokes are stretched to your minimum, and twitches no longer switch the background stroke on and off</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.17/Pulse-0.5.17.dmg"
+        sparkle:edSignature="0eRkLTO9ukjqt0il3R6hH065gQDFts13zLNY6TKx3CbRW/9wE+K633Y83zQ8zxy+MQbVXxYctfjzpspUsxEeBg=="
+        length="58872351"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.16</title>
       <sparkle:shortVersionString>0.5.16</sparkle:shortVersionString>
       <sparkle:version>24</sparkle:version>
