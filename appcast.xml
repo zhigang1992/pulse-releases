@@ -6,6 +6,25 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.19</title>
+      <sparkle:shortVersionString>0.5.19</sparkle:shortVersionString>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 09 Oct 2026 15:30:34 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Added Anime4K video restoration and upscaling with Off, Efficiency, and Quality presets in View → Anime4K and Settings.</li>
+          <li>Preset changes apply during playback and are saved across launches.</li>
+          <li>Anime4K shaders are bundled with Pulse. Quality uses more GPU power; output follows the playback window size.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.19/Pulse-0.5.19.dmg"
+        sparkle:edSignature="MjkVwt7y837+OuIvu762r4I0+uaSWOwUXyJG9w5rH7u/lbb2t3fKIT7wrGpcKk7dzVZNlkB671hkTrDbS2dUBw=="
+        length="59786373"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.18</title>
       <sparkle:shortVersionString>0.5.18</sparkle:shortVersionString>
       <sparkle:version>26</sparkle:version>
