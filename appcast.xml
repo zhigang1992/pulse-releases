@@ -6,6 +6,23 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.18</title>
+      <sparkle:shortVersionString>0.5.18</sparkle:shortVersionString>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 09 Oct 2026 17:14:41 +0800</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Live Feed settings (keep rhythm through cuts, minimum movement) can now be changed from Pulse Remote, and the Settings window picks up changes made there</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.18/Pulse-0.5.18.dmg"
+        sparkle:edSignature="waDwN0+78+nwaNWzrbfZHrgcBsgkr1fiycFN4dumiY6+7XxJEZJFwgjXTLwxy6p/bGta6FHS6lyXqOwasvZWDA=="
+        length="58873319"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.17</title>
       <sparkle:shortVersionString>0.5.17</sparkle:shortVersionString>
       <sparkle:version>25</sparkle:version>
