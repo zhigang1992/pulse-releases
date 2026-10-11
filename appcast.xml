@@ -6,6 +6,27 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.20</title>
+      <sparkle:shortVersionString>0.5.20</sparkle:shortVersionString>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 11 Oct 2026 03:45:29 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Motion scale now amplifies upward and downward movement relative to the previous position, fixing off-center strokes. At 100%, scaling passes positions through unchanged.</li>
+          <li>Motion scaling now works with video motion, screen/game feeds, and phone Physical input, as well as scripts.</li>
+          <li>Optional minimum movement now applies after scaling to video and screen/game feeds. Fast shallow strokes are stretched; slow or still motion receives background movement. Phone Physical mode stays still when the phone is still.</li>
+          <li>Minimum-motion activation and blending now use elapsed time for consistent behavior across frame rates. Settings remain available from the Mac and Pulse Remote.</li>
+          <li>Corrected the Mac timeline&#x27;s vertical direction and labeled it as the original script.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.20/Pulse-0.5.20.dmg"
+        sparkle:edSignature="mE8PvdXgNIOjQDZvK2B3YkKw5Pbxpj9kSH/9jrP/h0/klXjnz1Vln4aA+PNal91au0DWZuLeU14cn2U0QtXcBw=="
+        length="59785421"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.19</title>
       <sparkle:shortVersionString>0.5.19</sparkle:shortVersionString>
       <sparkle:version>27</sparkle:version>
