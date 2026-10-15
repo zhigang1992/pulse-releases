@@ -6,6 +6,23 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.21</title>
+      <sparkle:shortVersionString>0.5.21</sparkle:shortVersionString>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 15 Oct 2026 09:50:00 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>The library can now be sorted by name or by file date (newest first) from the toolbar. Pulse Remote has the same sort button.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.21/Pulse-0.5.21.dmg"
+        sparkle:edSignature="NAsjSW3W9lH0VuQ1OF/JEOFEgcEC2/PTji+XB8euIXbiRFeJpp7V4kvnnAVpviZLFQBtzZOoEbhNF1T573uACw=="
+        length="59400196"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.20</title>
       <sparkle:shortVersionString>0.5.20</sparkle:shortVersionString>
       <sparkle:version>28</sparkle:version>
