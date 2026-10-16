@@ -6,6 +6,23 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.22</title>
+      <sparkle:shortVersionString>0.5.22</sparkle:shortVersionString>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 16 Oct 2026 04:14:25 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Pulse has a new ribbon P application icon.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.22/Pulse-0.5.22.dmg"
+        sparkle:edSignature="DAwRA0BkS1h9vjlwFDQiqgA6wDXV1QG9FyD4YxUA2+7rJMiL2tUe7ZuVG6nvB2E4fcEnmbpPsIRUqO6xaPkeBg=="
+        length="54745723"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.21</title>
       <sparkle:shortVersionString>0.5.21</sparkle:shortVersionString>
       <sparkle:version>29</sparkle:version>
