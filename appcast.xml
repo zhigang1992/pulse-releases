@@ -6,6 +6,26 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.23</title>
+      <sparkle:shortVersionString>0.5.23</sparkle:shortVersionString>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 06 Nov 2026 11:56:11 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>New: TCode over UDP. Add a UDP device with its address and port to drive Wi-Fi devices.</li>
+          <li>Device playback over UDP now matches MultiFunPlayer for Windows, which stops devices rebooting during playback.</li>
+          <li>Seeking or starting playback eases the device into position instead of jumping.</li>
+          <li>The Pulse Remote can now change the player's volume.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.23/Pulse-0.5.23.dmg"
+        sparkle:edSignature="iaw64MH1V0WJ6rNtJb5OchVVPXZQJ4Pzfs73pj8y1rGZJ/tNoTlQfcWgGJ3YUuqH+WvfySx+0YgLLd3MQ5a8CQ=="
+        length="60717797"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.22</title>
       <sparkle:shortVersionString>0.5.22</sparkle:shortVersionString>
       <sparkle:version>30</sparkle:version>
