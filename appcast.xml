@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.24</title>
+      <sparkle:shortVersionString>0.5.24</sparkle:shortVersionString>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 07 Nov 2026 04:32:47 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>USB and Bluetooth devices now play the way they do in MultiFunPlayer for Windows, with smoother motion over Bluetooth.</li>
+          <li>Connecting a USB or Bluetooth device eases it into position instead of jumping.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.24/Pulse-0.5.24.dmg"
+        sparkle:edSignature="zMj+hxhOtmhhTA50ah7ZqrJW14pjhKkVEGMvD3uXDtzQfD28cFiLqq2tupkQ0EvhJh2/qwIqLXMROQg85CBYDg=="
+        length="60712743"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.23</title>
       <sparkle:shortVersionString>0.5.23</sparkle:shortVersionString>
       <sparkle:version>31</sparkle:version>
