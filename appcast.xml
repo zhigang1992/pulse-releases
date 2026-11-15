@@ -6,6 +6,22 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.26</title>
+      <sparkle:shortVersionString>0.5.26</sparkle:shortVersionString>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 15 Nov 2026 11:53:25 GMT</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Experimental Sound Motion generates L0 strokes from repeating audio attacks in local audio and video files.</li>
+          <li>Choose sound or picture motion for videos; prepare in memory or explicitly generate a funscript with backups.</li>
+          <li>Updated Mac and Remote controls show motion sources, preparation progress and errors. Update Pulse Remote to 0.5.7 (29) for Sound Motion controls.</li>
+          <li>Multiple tempo hypotheses and soft timbre matching improve repeating-impact coverage. Detection may still miss impacts or respond to rhythmic speech.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.26/Pulse-0.5.26.dmg" sparkle:edSignature="H/v3tW/2MZlfzhpD8i/bSaAkxtlU0OvPGMF8CbJkiS4Ltc6kGbXdY0UmhoOxX8HXA0ol0WHtjGHSiqjn5IrAAg==" length="60971659" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.25</title>
       <sparkle:shortVersionString>0.5.25</sparkle:shortVersionString>
       <sparkle:version>33</sparkle:version>
