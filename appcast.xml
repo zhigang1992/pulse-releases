@@ -6,6 +6,24 @@
     <description>Pulse update feed</description>
     <language>en</language>
     <item>
+      <title>Pulse 0.5.25</title>
+      <sparkle:shortVersionString>0.5.25</sparkle:shortVersionString>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 15 Nov 2026 07:14:34 GMT</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>Video Motion starts sooner when opening a video or seeking into an unanalyzed section. Motion can begin while matching continues to refine.</li>
+          <li>Early motion transitions smoothly into the full match once it is ready.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/zhigang1992/pulse-releases/releases/download/v0.5.25/Pulse-0.5.25.dmg"
+        sparkle:edSignature="KfHqqqWa8/p3gQhTiBZWLUapVDCPbhA2GtS/Dmaqk5P18Ga1E8G2lQGsdHFfnO2rPgU23x9LPmMylx5P2mtBBQ=="
+        length="61696381"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Pulse 0.5.24</title>
       <sparkle:shortVersionString>0.5.24</sparkle:shortVersionString>
       <sparkle:version>32</sparkle:version>
